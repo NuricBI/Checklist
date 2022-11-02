@@ -9,7 +9,7 @@ https://datamartin.azurewebsites.net/2022/09/18/essential-checklist-to-keep-your
 
 ### Part II. Data Model Good Practices
 
-HTTPS://DATAMARTIN.AZUREWEBSITES.NET/2022/09/29/ESSENTIAL-CHECKLIST-TO-KEEP-YOUR-POWER-BI-SOLUTIONS-OPTIMIZED-PART-II-DATA-MODEL-GOOD-PRACTICES/
+https://datamartin.azurewebsites.net/2022/09/29/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-ii-data-model-good-practices/
 
 ### Part III. Optimizing Dax Formulas
 
