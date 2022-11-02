@@ -1,4 +1,4 @@
-# Essential Checklist to Keep your Power BI Solutions Optimized
+# Essential Checklist to Keep your Power BI Solutions Optimized 🚀
 
 ### Link to download the Excel checklist 👇: 
 [Essential Checklist to Keep your Power BI Solutions Optimized.xlsx](https://github.com/NuricBI/desktop-tutorial/files/9831828/Essential.Checklist.to.Keep.your.Power.BI.Solutions.Optimized.xlsx)
