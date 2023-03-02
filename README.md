@@ -7,17 +7,19 @@
 
 ### ✔ Part I: Optimizing the Data Source
 
-https://datamartin.azurewebsites.net/2022/09/18/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-i-optimizing-the-data-source-2/
+https://datamartin.ca/2022/09/18/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-i-optimizing-the-data-source-2/
 
 ### ✔ Part II. Data Model Good Practices
 
-https://datamartin.azurewebsites.net/2022/09/29/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-ii-data-model-good-practices/
+https://datamartin.ca/2022/09/29/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-ii-data-model-good-practices/
 
 ### ✔ Part III. Optimizing Dax Formulas
 
-https://datamartin.azurewebsites.net/2022/09/19/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-iii-optimizing-dax-formulas/
+https://datamartin.ca/2022/09/19/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-iii-optimizing-dax-formulas/
 
 ### ✔ Part IV. Visualization Good Practices
 
-https://datamartin.azurewebsites.net/2022/09/29/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-iv-visualization-good-practices/
+https://datamartin.ca/2022/09/29/essential-checklist-to-keep-your-power-bi-solutions-optimized-part-iv-visualization-good-practices/
 
+TOOLS TO ANALYZE THE PERFORMANCE OF YOUR POWER BI SOLUTION
+https://datamartin.ca/2022/09/29/tools-to-analyze-the-performance-of-your-power-bi-solution/
